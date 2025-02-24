@@ -1,1 +1,1 @@
-# exercicioProgFuncional. Hello, here i bring a smal exercise on funcitional programming
+# exercicioProgFuncional. Hello, here i bring a small exercise on funcitional programming
